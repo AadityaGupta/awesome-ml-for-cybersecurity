@@ -67,6 +67,10 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add tools or resour
 * [Automatically Evading Classifiers A Case Study on PDF Malware Classifiers](https://www.cs.virginia.edu/~evans/pubs/ndss2016/)
 * [Weaponizing Data Science for Social Engineering — Automated E2E Spear Phishing on Twitter](https://www.blackhat.com/docs/us-16/materials/us-16-Seymour-Tully-Weaponizing-Data-Science-For-Social-Engineering-Automated-E2E-Spear-Phishing-On-Twitter.pdf)
 * [Machine Learning: A Threat-Hunting Reality Check](https://www.countercept.com/assets/Uploads/whitepapers/MWRI-Countercept-Machine-Learning-Whitepaper-2017-04-01.pdf)
+* [Neural Network-based Graph Embedding for Cross-Platform Binary Code Similarity Detection](https://arxiv.org/abs/1708.06525)
+* [Practical Secure Aggregation for Privacy-Preserving Machine Learning](https://eprint.iacr.org/2017/281.pdf)
+* [DeepLog: Anomaly Detection and Diagnosis from System Logs through Deep Learning](https://acmccs.github.io/papers/p1285-duA.pdf)
+
 
 ## [↑](#table-of-contents) Books
 
@@ -110,25 +114,29 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add tools or resour
 * [AI and Security](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/07/AI_and_Security_Dawn_Song.pdf)
 * [AI in InfoSec](https://vimeo.com/230502013)
 * [Beyond the Blacklists: Detecting Malicious URL Through Machine Learning](https://www.youtube.com/watch?v=Kd3svc9HZ0Y)
+* [Machine Learning Fueled Cyber Threat Hunting](https://www.youtube.com/watch?v=c-c-IQ5pFXw)
+* [Weaponizing Machine Learning: Humanity Was Overrated](https://www.youtube.com/watch?v=QbX7BhjOOvY)
+* [Machine Learning, Offense, and the future of Automation](https://docs.google.com/presentation/d/16BWLRm4aNdxToJO-_63s1gLlw-hbSXlQE-jSzzsHkIw/edit#slide=id.g2ae4261e6b_0_0)
 
 ## [↑](#table-of-contents) Tutorials
 
 * [Click Security Data Hacking Project](http://clicksecurity.github.io/data_hacking/)
-* [Using Neural Networks to generate human readable passwords](http://fsecurify.com/using-neural-networks-to-generate-human-readable-passwords/)
-* [Machine Learning based Password Strength Classification](http://fsecurify.com/machine-learning-based-password-strength-checking/)
-* [Using Machine Learning to Detect Malicious URLs](http://fsecurify.com/using-machine-learning-detect-malicious-urls/)
+* [Using Neural Networks to generate human readable passwords](http://web.archive.org/web/20170606051515/http://fsecurify.com/using-neural-networks-to-generate-human-readable-passwords/)
+* [Machine Learning based Password Strength Classification](http://web.archive.org/web/20170606022743/http://fsecurify.com/machine-learning-based-password-strength-checking/)
+* [Using Machine Learning to Detect Malicious URLs](http://web.archive.org/web/20170514093208/http://fsecurify.com/using-machine-learning-detect-malicious-urls/)
 * [Big Data and Data Science for Security and Fraud Detection](http://www.kdnuggets.com/2015/12/big-data-science-security-fraud-detection.html)
 * [Using deep learning to break a Captcha system](https://deepmlblog.wordpress.com/2016/01/03/how-to-break-a-captcha-system/)
 * [Data mining for network security and intrusion detection](https://www.r-bloggers.com/data-mining-for-network-security-and-intrusion-detection/)
 * [An Introduction to Machine Learning for Cybersecurity and Threat Hunting](http://blog.sqrrl.com/an-introduction-to-machine-learning-for-cybersecurity-and-threat-hunting)
 * [Applying Machine Learning to Improve Your Intrusion Detection System](https://securityintelligence.com/applying-machine-learning-to-improve-your-intrusion-detection-system/)
 * [Analyzing BotNets with Suricata & Machine Learning](http://blogs.splunk.com/2017/01/30/analyzing-botnets-with-suricata-machine-learning/)
-* [fWaf – Machine learning driven Web Application Firewall](http://fsecurify.com/fwaf-machine-learning-driven-web-application-firewall/)
+* [fWaf – Machine learning driven Web Application Firewall](http://web.archive.org/web/20170706222016/http://fsecurify.com/fwaf-machine-learning-driven-web-application-firewall/)
 * [Deep Session Learning for Cyber Security](https://blog.cyberreboot.org/deep-session-learning-for-cyber-security-e7c0f6804b81#.eo2m4alid)
 * [DMachine Learning for Malware Detection](http://resources.infosecinstitute.com/machine-learning-malware-detection/)
 * [ShadowBrokers Leak: A Machine Learning Approach](https://marcoramilli.blogspot.ru/2017/04/shadowbrokers-leak-machine-learning.html)
 * [Practical Machine Learning in Infosec - Virtualbox Image and Stuff](https://docs.google.com/document/d/1v4plS1EhLBfjaz-9GHBqspTH7vnrJfqLrLjeP9k9i9A/edit)
 * [A Machine-Learning Toolkit for Large-scale eCrime Forensics](http://blog.trendmicro.com/trendlabs-security-intelligence/defplorex-machine-learning-toolkit-large-scale-ecrime-forensics/)
+* [WebShells Detection by Machine Learning](https://github.com/lcatro/WebShell-Detect-By-Machine-Learning)
 
 
 ## [↑](#table-of-contents) Courses
